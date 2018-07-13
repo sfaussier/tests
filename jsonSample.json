@@ -1,0 +1,20 @@
+[
+{
+	"oaid": "SIAFI1DV1NLW",
+	"idcritereregroupementtype": -1,
+	"idregroupementtype": -1,
+	"libelle": "CRT1REG-1",
+	"attribut": "ZONE",
+	"actif": true,
+	"ordre": 0
+},
+{
+	"oaid": "SIAFI1DV1NLW",
+	"idcritereregroupementtype": -2,
+	"idregroupementtype": -1,
+	"libelle": "CRT2REG-1",
+	"attribut": "DATEHEURE_AU_PLUS_TARD",
+	"actif": true,
+	"ordre": 1
+}
+]
